@@ -37,7 +37,7 @@ class program
     static void main(string[] args)
     {
         companyEmpWage("DMart",20,2,10);
-        companyEmpWage("Reliance", 10, 4, 20);
+        companyEmpWage("Reliance",10,4,20);
 
     }
 }
