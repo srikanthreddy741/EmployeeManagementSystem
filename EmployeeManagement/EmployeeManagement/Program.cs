@@ -37,9 +37,4 @@ class program
         Console.WriteLine("Total Emp Wage : " + totalEmpWage);
         return totalEmpWage;
     }
-
-    static void main(string[] args)
-    {
-        companyWage();
-    }
 }
